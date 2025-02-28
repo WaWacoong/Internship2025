@@ -8,7 +8,7 @@ const OrganizationChart = () => {
           <div className="bg-white rounded-lg shadow-lg p-8">
             <div className="rounded-lg overflow-hidden border border-gray-100">
               <img
-                src="/src/public/images/img5.jpg"
+                src="/images/img5.jpg"
                 alt="Organization Chart"
                 className="w-full h-auto"
               />
