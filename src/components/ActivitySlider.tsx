@@ -4,19 +4,19 @@ import { ChevronLeft, ChevronRight, Camera, Star } from 'lucide-react';
 const activities = [
   {
     id: 1,
-    image: "/src/public/images/img3.jpg",
+    image: "/images/img3.jpg",
     title: "สัมมนาปี 67",
     description: "ปลูกป่าชายเลน"
   },
   {
     id: 2,
-    image: "/src/public/images/img2.jpg",
+    image: "/images/img2.jpg",
     title: "สัมมนาปี 67",
     description: "งานเลี้ยง ตีมชาวล็อก"
   },
   {
     id: 3,
-    image: "/src/public/images/img1.jpg",
+    image: "/images/img1.jpg",
     title: "ทำบุญปีใหม่ 68",
     description: "นั่งฟังพระสวดมนต์"
   }

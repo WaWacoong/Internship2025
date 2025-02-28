@@ -42,7 +42,7 @@ const CompanyInfo = () => {
           <div className="space-y-8">
             <div className="rounded-lg overflow-hidden">
               <img
-                src="/src/public/images/img7.jpg"
+                src="/images/img7.jpg"
                 alt="Thitaram Group"
                 className="w-full h-[400px] object-cover"
               />
@@ -112,7 +112,7 @@ const CompanyInfo = () => {
               </div>
               <div className="rounded-lg overflow-hidden border border-gray-100">
                 <img
-                  src="/src/public/images/img4.jpg"
+                  src="/images/img4.jpg"
                   alt="Our Clients"
                   className="w-full h-auto"
                 />

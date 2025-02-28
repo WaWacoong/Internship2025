@@ -13,10 +13,11 @@ const Team: React.FC = () => {
             </div>
             <h1 className="text-4xl font-bold">OUR TEAM</h1>
           </div>
+          <p className="text-gray-600 text-xl">ทีมงานของเรา</p>
         </div>
         <div className="flex justify-center">
           <img 
-            src="/src/public/images/img6.jfif" 
+            src="/images/img6.jfif" 
             alt="Our Team" 
             className="rounded-lg shadow-xl max-w-3xl w-full"
           />
